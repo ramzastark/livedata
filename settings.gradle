@@ -1,0 +1,2 @@
+rootProject.name='LiveDataApp'
+include ':app'
